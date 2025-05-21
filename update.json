@@ -2,6 +2,6 @@
   "latest_version": "1.1.0",
   "title": "New Update Available!",
   "message": "We've added new features and fixed bugs.",
-  "force_update": false,
+  "force_update": true,
   "download_link": "https://vpnjantit.com/free-ssh"
 }
