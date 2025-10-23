@@ -1,6 +1,6 @@
 {
   "versionCode": 1,
-  "versionName": "1.o",
+  "versionName": "1.0",
   "mandatory": true,
   "updateUrl": "https://play.google.com/store/apps/details?id=com.yourapp.package",
   "message": "New update available with bug fixes and exciting features!"
